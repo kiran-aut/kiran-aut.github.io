@@ -22,5 +22,11 @@ div.navigation li
     display: inline-block;
 }
 
+a
+{
+    background-color: darkgrey;
+    text-decoration: none;
+    color: black;
+}
 
 
