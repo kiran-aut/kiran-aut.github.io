@@ -11,6 +11,12 @@ h1
     text-align: center;
 }
 
+h2
+{
+    font-family: helvetica;
+    text-align: center;
+}
+
 div.navigation ul
 {
     list-style: none;
@@ -31,8 +37,36 @@ a
 
 p
 {
+    font-family: helvetica;
     margin-right: 150px;
     margin-left: 150px;
 }
 
+table
+{
+    text-align: center;
+    border: 1px solid;
+}
 
+th
+{
+    border: 1px solid;
+}
+
+td
+{
+    border: 1px solid;
+}
+
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centerimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
